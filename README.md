@@ -1,3 +1,3 @@
-# ML_python
+# ML_Wine
 
-In this repository there are some exercises I am currently doing to study Machine Learning.
+My first project using Machine Learning. In this project I used a classifier algorithm, based on decision trees, to predict from a database of wines if a wine is red or white. 
